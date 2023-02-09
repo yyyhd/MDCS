@@ -1,0 +1,1 @@
+Before training, you should make your VOC dataset including the images, xml file (lable) in Annotations，and txt file (the dataset of training and validation) in ImageSets
